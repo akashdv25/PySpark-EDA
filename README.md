@@ -53,6 +53,9 @@ The analysis follows these steps:
     - **Child Mortality Analysis:** Examining trends in child mortality.
     - **Summary Tables & Visualizations:** Generating summary tables and visualizations to represent findings (heatmaps, maps, etc).
 
+## Notebook
+[Access the notebook](https://github.com/akashdv25/PySpark-EDA/blob/main/Pyspark_test%20(1).ipynb)
+
 
 ## Deliverables
 
